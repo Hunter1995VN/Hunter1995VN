@@ -47,16 +47,26 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hunter1995VN&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter1995VN&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=github-readme-stats"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=Hunter1995VN&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  <!-- Main Stats Card - Đã thêm cache busting và fallback -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hunter1995VN&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&v=4" 
+       onerror="this.onerror=null;this.src='https://github-readme-stats.vercel.app/api?username=Hunter1995VN&show_icons=true&theme=default&hide_border=true';" 
+       alt="GitHub Stats"/>
+  
+  <!-- Top Languages - Giới hạn ngôn ngữ hiển thị -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter1995VN&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=github-readme-stats,anuraghazra.github.io&v=4" 
+       alt="Top Languages"/>
+  
+  <!-- Streak Stats - Định dạng ngày rõ ràng -->
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Hunter1995VN&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&v=4" 
+       alt="GitHub Streak"/>
 </p>
 
+<!-- GitHub Trophies với fallback -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hunter1995VN&theme=gruvbox&no-frame=true&column=7&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hunter1995VN&theme=gruvbox&no-frame=true&column=7&margin-w=15&margin-h=15&v=4" 
+       onerror="this.onerror=null;this.src='https://github-profile-trophy.vercel.app/?username=Hunter1995VN&theme=onedark&column=3';" 
+       alt="GitHub Trophies"/>
 </p>
-
----
 
 ## 🌐 Socials
 
