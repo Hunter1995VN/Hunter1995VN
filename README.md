@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Võ Thành Nhiệm</h1>
-<h3 align="center">💻 Full Stack Developer | Cloud Enthusiast | Lifelong Learner</h3>
+<h3 align="center">💻 Developer | Intern | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+build+efficient+and+scalable+systems.;Explore+my+projects+below!+%F0%9F%92%BB" alt="Typing SVG" />
