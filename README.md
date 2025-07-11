@@ -18,38 +18,53 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b)
-![C#](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c-sharp)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-
-### Frameworks & Libraries
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server)
-
-### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform)
-
-### Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva)
-
----
+🛠️ Tech Stack
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b"/>
+<img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c-sharp"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
+</td>
+</tr>
+<tr>
+<td><b>Frameworks & Libraries</b></td>
+<td>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens"/>
+</td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server"/>
+</td>
+</tr>
+<tr>
+<td><b>DevOps & Cloud</b></td>
+<td>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform"/>
+</td>
+</tr>
+<tr>
+<td><b>Design & Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva"/>
+</td>
+</tr>
+</table>
 
 ## 📈 GitHub Stats
 
