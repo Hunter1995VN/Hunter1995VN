@@ -1,88 +1,80 @@
-
 <h1 align="center">Hi 👋, I'm Võ Thành Nhiệm</h1>
-<h3 align="center">💻 Full Stack Developer | Cloud Enthusiast | Lifelong Learner</h3>
+<h3 align="center">💻 Full Stack Developer | Cloud Enthusiast | DevOps Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+build+efficient+and+scalable+systems.;Explore+my+projects+below!+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+build+efficient+and+scalable+systems.;Open-source+enthusiast+%F0%9F%A4%97" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on **several full-stack web applications**
-- 🌱 I’m learning **DevOps, Docker, and Terraform**
-- 💬 Ask me about **C#, JavaScript, Java, SQL Server**
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/vothanhnhiem)**
-- ⚡ Fun fact: I love designing developer tools & mentoring juniors.
+- 🔭 Currently developing **full-stack web applications with .NET & React**
+- 🌱 Deep diving into **AWS, Docker, and Terraform**
+- 👨‍💻 All of my projects are available at [github.com/Hunter1995VN](https://github.com/Hunter1995VN)
+- 💬 Ask me about **C#, JavaScript, or cloud architectures**
+- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/vothanhnhiem)** | **[Email](mailto:your-real-email@example.com)**
+- ⚡ Fun fact: I automate everything possible
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b)
-![C#](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c-sharp)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+### Programming Languages
+<p>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/>
+</p>
 
 ### Frameworks & Libraries
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server)
+<p>
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge"/>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
+</p>
 
 ### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform)
-
-### Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Hunter1995VN&show_icons=true&theme=radical&count_private=true" alt="Stats" width="400"/>
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter1995VN&layout=compact&theme=radical&hide=procfile" alt="Top Langs" width="300"/>
-  
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=Hunter1995VN&theme=radical" alt="Streak" width="400"/>
-</p>
-
----
-
-## 🏆 GitHub Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hunter1995VN&theme=gruvbox&row=1&column=7&margin-w=10" />
-</p>
-
----
-
-## 🔗 Connect With Me
 <p>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hunter1995VN&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter1995VN&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=github-readme-stats"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=Hunter1995VN&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hunter1995VN&theme=gruvbox&no-frame=true&column=7&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+## 🌐 Socials
+
+<p align="center">
   <a href="https://linkedin.com/in/vothanhnhiem" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="https://leetcode.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="mailto:your-real-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vothanhnhiem&label=Profile+Views&color=blue&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Hunter1995VN&label=Profile+Views&color=blueviolet&style=flat-square"/>
+  <a href="https://github.com/Hunter1995VN?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Hunter1995VN?color=green&logo=github&style=flat-square">
+  </a>
 </p>
