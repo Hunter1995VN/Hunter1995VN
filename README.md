@@ -59,7 +59,7 @@ Design & Tools
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Hunter1995VN&show_icons=true&theme=radical" />
   <br/>
    <img src="https://streak-stats.demolab.com?user=Hunter1995VN&theme=radical" />
