@@ -19,63 +19,40 @@
 ---
 
 🛠️ Tech Stack
-<table>
-<tr>
-<td><b>Languages</b></td>
-<td>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b"/>
-<img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c-sharp"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
-</td>
-</tr>
-<tr>
-<td><b>Frameworks & Libraries</b></td>
-<td>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens"/>
-</td>
-</tr>
-<tr>
-<td><b>Databases</b></td>
-<td>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server"/>
-</td>
-</tr>
-<tr>
-<td><b>DevOps & Cloud</b></td>
-<td>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform"/>
-</td>
-</tr>
-<tr>
-<td><b>Design & Tools</b></td>
-<td>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva"/>
-</td>
-</tr>
-</table>
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hunter1995VN&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter1995VN&layout=compact&theme=radical" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Hunter1995VN&theme=radical" />
+Languages
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
-
+Frameworks & Libraries
+<p>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+</p>
+Databases
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+DevOps & Cloud
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+</p>
+Design & Tools
+<p>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
 ---
 
 ## 🏆 GitHub Trophy
