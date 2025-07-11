@@ -85,9 +85,9 @@ Design & Tools
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/vothanhnhiem?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/vothanhnhiem?label=Follow&style=social" alt="GitHub Follow"/>
+    <img src="https://img.shields.io/github/followers/Hunter1995VN?label=Follow&style=social" alt="GitHub Follow"/>
   </a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vothanhnhiem&label=Profile+Views&color=blue&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Hunter1995VN&label=Profile+Views&color=blue&style=flat-square" alt="profile views"/>
 </p>
