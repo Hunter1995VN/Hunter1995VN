@@ -79,12 +79,14 @@ Design & Tools
 ## 🔗 Connect With Me
 <p>
   <a href="https://linkedin.com/in/vothanhnhiem" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/vothanhnhiem?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/vothanhnhiem?label=Follow&style=social" alt="GitHub Follow"/>
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hunter1995VN&label=Profile+Views&color=blue&style=flat-square" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/hunter1995VN?label=Followers&style=flat-square" alt="GitHub Followers"/>
 </p>
