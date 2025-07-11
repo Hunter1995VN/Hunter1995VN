@@ -1,81 +1,77 @@
 
 <h1 align="center">Hi 👋, I'm Võ Thành Nhiệm</h1>
-<h3 align="center">💻 Full Stack Developer | Cloud Enthusiast | DevOps Learner</h3>
+<h3 align="center">💻 Full Stack Developer | Cloud Enthusiast | Lifelong Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+build+efficient+and+scalable+systems.;Explore+my+projects+below!+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🌟 About Me
 
-- 🚀 Currently developing full-stack web applications with .NET & React
-- 🌱 Deep diving into **AWS, Docker, and Terraform**
-- 📂 All of my projects are available at [github.com/Hunter1995VN](https://github.com/Hunter1995VN)
-- 💬 Ask me about **C#, JavaScript, or cloud architectures**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/vothanhnhiem) | [Email](mailto:youremail@example.com)
-- ⚡ Fun fact: I automate everything possible
+- 🔭 I’m currently working on **several full-stack web applications**
+- 🌱 I’m learning **DevOps, Docker, and Terraform**
+- 💬 Ask me about **C#, JavaScript, Java, SQL Server**
+- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/vothanhnhiem)**
+- ⚡ Fun fact: I love designing developer tools & mentoring juniors.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b)
+![C#](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c-sharp)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
 
 ### Frameworks & Libraries
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" alt=".NET"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/>
-</p>
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
 
 ### Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" alt="SQL Server"/>
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server)
 
 ### DevOps & Cloud
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" alt="Jenkins"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" alt="Terraform"/>
-</p>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform)
 
 ### Design & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" alt="Jira"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" alt="Canva"/>
-</p>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hunter1995VN&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter1995VN&layout=compact&theme=radical" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vothanhnhiem&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vothanhnhiem&layout=compact&theme=radical" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=vothanhnhiem&theme=radical" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hunter1995VN&theme=gruvbox&row=1&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vothanhnhiem&theme=gruvbox&row=1&column=7&margin-w=10" />
 </p>
 
 ---
 
 ## 🔗 Connect With Me
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/vothanhnhiem" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
@@ -85,5 +81,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hunter1995VN&label=Profile+Views&color=blue&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=vothanhnhiem&label=Profile+Views&color=blue&style=flat-square" alt="profile views"/>
 </p>
