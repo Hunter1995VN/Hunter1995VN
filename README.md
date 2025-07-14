@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **several full-stack web applications**
 - 🌱 I’m learning **DevOps, Docker, and Terraform**
 - 💬 Ask me about **C#, JavaScript, Java, SQL Server**
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/nhiệm-võ-7644252b2/) | [Email](mailto:nhiemvtohanh2004@g,ail.com)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/vo-thanh-nhiem-7644252b2/) | [Email](mailto:nhiemvtohanh2004@gmail.com)**
 - ⚡ Fun fact: I love designing developer tools & mentoring juniors.
 
 ---
@@ -83,7 +83,7 @@
 
 ## 🔗 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/nhiệm-võ-7644252b2/" target="_blank">
+  <a href="https://www.linkedin.com/in/vo-thanh-nhiem-7644252b2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nhiemvothanh2004@gmail.com" target="_blank">
