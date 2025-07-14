@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **several full-stack web applications**
 - 🌱 I’m learning **DevOps, Docker, and Terraform**
 - 💬 Ask me about **C#, JavaScript, Java, SQL Server**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/vo-thanh-nhiem-7644252b2/) | [Email](mailto:nhiemvtohanh2004@gmail.com)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/vo-thanh-nhiem-7644252b2/) | [Email](mailto:nhiemvothanh2004@gmail.com)**
 - ⚡ Fun fact: I love designing developer tools & mentoring juniors.
 
 ---
