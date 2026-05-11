@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **several full-stack web applications**
 - 🌱 I’m learning **DevOps, Docker, and Terraform**
-- 💬 Ask me about **C#, JavaScript, Java, SQL Server**
+- 💬 Ask me about **C#, JavaScript, Unity, SQL Server, PostgreSQL & System Design**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/vo-thanh-nhiem-7644252b2/) | [Email](mailto:nhiemvothanh2004@gmail.com)**
 - ⚡ Fun fact: I love designing developer tools & mentoring juniors.
 
@@ -44,6 +44,7 @@
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### ☁️ DevOps & Cloud
@@ -62,6 +63,13 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
+### 🏗️ System Design & Modeling
+<p>
+  <img src="https://img.shields.io/badge/StarUML-FF0000?style=for-the-badge&logo=staruml&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Paradigm-00A4EF?style=for-the-badge&logo=visual-paradigm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PlantUML-5B7C80?style=for-the-badge&logo=plantuml&logoColor=white"/>
+</p>
 ---
 
 ## 📈 GitHub Stats
